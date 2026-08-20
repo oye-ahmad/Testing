@@ -13,3 +13,5 @@ hello
 again hello
 
 how to fly the drones in a swarm?
+
+i have implemented the drone models in multi_iris_runway.sdf world and spawned.
