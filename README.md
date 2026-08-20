@@ -15,3 +15,7 @@ again hello
 how to fly the drones in a swarm?
 
 i have implemented the drone models in multi_iris_runway.sdf world and spawned.
+
+and i successfully integrated them with Ardupilot SITL.
+
+the drones are flying well manually 
