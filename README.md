@@ -23,3 +23,5 @@ the drones are flying well manually
 but when i wrote a mavsdk script to fly all of them concurrently, only one drone fly and the other did not however the telemetry shows that all three flew.
 
 this didn't work so i shifted towards the ROS2 Node
+
+So the ROS2 node will fly all the three drones simultaneously 
