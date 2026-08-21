@@ -25,3 +25,5 @@ but when i wrote a mavsdk script to fly all of them concurrently, only one drone
 this didn't work so i shifted towards the ROS2 Node
 
 So the ROS2 node will fly all the three drones simultaneously 
+
+I have now instantiated the MAVROS commands for all the three drones 
