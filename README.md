@@ -31,3 +31,5 @@ I have now instantiated the MAVROS commands for all the three drones
 And write a node code for their fly
 
 but again one problem arises that drones disconnect when i ran command to check their status they connected and again they disconnected 
+
+i am not able to understand what is happening like all the things are correct and everything works fine but the problem of connection one time true and then the next time false.
