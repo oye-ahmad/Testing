@@ -29,3 +29,5 @@ So the ROS2 node will fly all the three drones simultaneously
 I have now instantiated the MAVROS commands for all the three drones 
 
 And write a node code for their fly
+
+but again one problem arises that drones disconnect when i ran command to check their status they connected and again they disconnected 
