@@ -27,3 +27,5 @@ this didn't work so i shifted towards the ROS2 Node
 So the ROS2 node will fly all the three drones simultaneously 
 
 I have now instantiated the MAVROS commands for all the three drones 
+
+And write a node code for their fly
