@@ -37,3 +37,5 @@ i am not able to understand what is happening like all the things are correct an
 this causes the node to stuck at the checkout of connection 
 
 i think i should now try mavsdk again to fly all the drones simultaneously 
+
+if that again does not work then?
