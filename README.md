@@ -43,3 +43,5 @@ if that again does not work then?
 separately they are flying like manually when i give commands to each drone from its terminal it works but why not concurrently 
 
 i think i should also try to use PYmavlink 
+
+maybe it will work.
