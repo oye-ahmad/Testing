@@ -51,3 +51,5 @@ yes we have found the problem
 actually we were only using tcp or udp ports in mavsdk
 
 so the solution was gRPC ports
+
+when we configured gRPC ports for each instance then this worked
