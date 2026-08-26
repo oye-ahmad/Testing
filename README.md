@@ -47,3 +47,5 @@ i think i should also try to use PYmavlink
 maybe it will work.
 
 yes we have found the problem 
+
+actually we were only using tcp or udp ports in mavsdk
