@@ -55,3 +55,5 @@ so the solution was gRPC ports
 when we configured gRPC ports for each instance then this worked
 
 so first we flew all the 3 drones simultaneously only takeoff and hover for 10 seconds and then land
+
+when this runs successfully then we move towards the BCD path coverage for the swarm of these drones 
