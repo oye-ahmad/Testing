@@ -57,3 +57,5 @@ when we configured gRPC ports for each instance then this worked
 so first we flew all the 3 drones simultaneously only takeoff and hover for 10 seconds and then land
 
 when this runs successfully then we move towards the BCD path coverage for the swarm of these drones 
+
+first of all same BCD as discussed for single UAV then we create partitions of regions or cells for each drone 
