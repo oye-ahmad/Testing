@@ -45,3 +45,5 @@ separately they are flying like manually when i give commands to each drone from
 i think i should also try to use PYmavlink 
 
 maybe it will work.
+
+yes we have found the problem 
