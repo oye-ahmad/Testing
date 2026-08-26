@@ -59,3 +59,5 @@ so first we flew all the 3 drones simultaneously only takeoff and hover for 10 s
 when this runs successfully then we move towards the BCD path coverage for the swarm of these drones 
 
 first of all same BCD as discussed for single UAV then we create partitions of regions or cells for each drone 
+
+then the each drone covers the area respectively 
