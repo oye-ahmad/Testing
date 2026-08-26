@@ -53,3 +53,5 @@ actually we were only using tcp or udp ports in mavsdk
 so the solution was gRPC ports
 
 when we configured gRPC ports for each instance then this worked
+
+so first we flew all the 3 drones simultaneously only takeoff and hover for 10 seconds and then land
