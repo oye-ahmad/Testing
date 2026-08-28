@@ -6,11 +6,6 @@ BCD Implementation problems and solutions documented
 
 hello just updating readme
 
-everyday 4 commits must
-
-hello 
-
-again hello
 
 how to fly the drones in a swarm?
 
