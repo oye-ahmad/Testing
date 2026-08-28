@@ -1,4 +1,4 @@
-Just for testing and learning purposes
+BCD Implementation problems and solutions documented 
 
   - Day 02 of editing this Readme.md
   - hello
